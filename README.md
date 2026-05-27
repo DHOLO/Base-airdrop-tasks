@@ -12,5 +12,4 @@ Join Base’s Guild and complete tasks
 Navigate to Aerodrome, Base’s leading decentralized exchange (Regularly swap between different tokens (aim for 10-15 distinct tokens)
 Provide Liquidity on Aerodrome (Go to the “Liquidity” section on Aerodrome)
 Lend or Borrow Assets on Morpho
-Regularly Use Trading Protocols(Trade perpetual contracts on Avantis and/or Vest)
 Go to Coinbase Onchain Verify and log in with your Coinbase account(Add your onchain wallet for verification)
