@@ -13,3 +13,4 @@ Navigate to Aerodrome, Base’s leading decentralized exchange (Regularly swap b
 Provide Liquidity on Aerodrome (Go to the “Liquidity” section on Aerodrome)
 Lend or Borrow Assets on Morpho
 Go to Coinbase Onchain Verify and log in with your Coinbase account(Add your onchain wallet for verification)
+Basefun
